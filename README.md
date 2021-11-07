@@ -97,7 +97,7 @@ berupa generasi 0 - 499. Best fitness nya yaitu 2,48112. Lalu kromosom terbaikny
 
 
 # Referensi
-- https://towardsdatascience.com/introduction-to-genetic-algorithms-including-examplecodee396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation
+- https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3
 - https://www.geeksforgeeks.org/encoding-methods-in-genetic-algorithm/
-- https://www.geeksforgeeks.org/crossover-in-geneticalgorithm/#:~:text=Single%20Point%20Crossover%20%3A%20A%20crossover,between%20the%20two%20parent%20organisms.&text=Two%20random%20points%20are%20chosen,is%20exchanged%20at%20these%20points
+- https://www.geeksforgeeks.org/crossover-in-genetic-algorithm/
 - https://people.sc.fsu.edu/~jburkardt/cpp_src/simple_ga/simple_ga.html
